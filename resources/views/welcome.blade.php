@@ -8,9 +8,14 @@
 
     </head>
     <body>
+        <div class="container">
+
+        </div>
         
         <footer>
-            &copy; 2020 by <a href="https://github.com/StatusWatcher/StatusWatcher" target="_blank">StatusWatcher</a> | Version 0.0.100-DP
+            <div class="container">
+                &copy; 2020 by <a href="https://github.com/StatusWatcher/StatusWatcher" target="_blank">StatusWatcher</a> | Version 0.0.100-DP
+            </div>
         </footer>
     </body>
 </html>
